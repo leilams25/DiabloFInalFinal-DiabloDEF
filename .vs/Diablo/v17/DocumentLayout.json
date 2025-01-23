@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alumno.DESKTOP-GV16N45.000\\Desktop\\Diablo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{951959EA-49A7-EBD3-3D2D-09932854AF2A}|Assembly-CSharp.csproj|c:\\users\\alumno.desktop-gv16n45.000\\desktop\\diablo\\assets\\scripts\\gallinamovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951959EA-49A7-EBD3-3D2D-09932854AF2A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gallinamovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GallinaMovimiento.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno.DESKTOP-GV16N45.000\\Desktop\\Diablo\\Assets\\Scripts\\GallinaMovimiento.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GallinaMovimiento.cs",
+              "ToolTip": "C:\\Users\\Alumno.DESKTOP-GV16N45.000\\Desktop\\Diablo\\Assets\\Scripts\\GallinaMovimiento.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GallinaMovimiento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:01:12.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

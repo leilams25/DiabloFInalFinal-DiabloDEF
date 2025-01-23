@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alumno.DESKTOP-GV16N45.000\\Documents\\GitHub\\DiabloFInalFinal-DiabloDEF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DC4F67-8054-C696-FB30-6C3196152EE5}|Assembly-CSharp.csproj|c:\\users\\alumno.desktop-gv16n45.000\\documents\\github\\diablofinalfinal-diablodef\\assets\\scripts\\gallinamovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DC4F67-8054-C696-FB30-6C3196152EE5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gallinamovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB5FE20-2A84-10A6-A797-ABB842A50056}|Assembly-CSharp-Editor.csproj|c:\\users\\alumno.desktop-gv16n45.000\\documents\\github\\diablofinalfinal-diablodef\\assets\\editor\\crossplatforminput\\crossplatforminputinitialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB5FE20-2A84-10A6-A797-ABB842A50056}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\crossplatforminput\\crossplatforminputinitialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A063AB-0A25-2DD1-1625-2A9DCB02951D}|Assembly-CSharp-firstpass.csproj|c:\\users\\alumno.desktop-gv16n45.000\\documents\\github\\diablofinalfinal-diablodef\\assets\\standard assets\\utility\\simpleactivatormenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A063AB-0A25-2DD1-1625-2A9DCB02951D}|Assembly-CSharp-firstpass.csproj|solutionrelative:assets\\standard assets\\utility\\simpleactivatormenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A063AB-0A25-2DD1-1625-2A9DCB02951D}|Assembly-CSharp-firstpass.csproj|c:\\users\\alumno.desktop-gv16n45.000\\documents\\github\\diablofinalfinal-diablodef\\assets\\standard assets\\utility\\fpscounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A063AB-0A25-2DD1-1625-2A9DCB02951D}|Assembly-CSharp-firstpass.csproj|solutionrelative:assets\\standard assets\\utility\\fpscounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A063AB-0A25-2DD1-1625-2A9DCB02951D}|Assembly-CSharp-firstpass.csproj|c:\\users\\alumno.desktop-gv16n45.000\\documents\\github\\diablofinalfinal-diablodef\\assets\\standard assets\\utility\\forcedreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A063AB-0A25-2DD1-1625-2A9DCB02951D}|Assembly-CSharp-firstpass.csproj|solutionrelative:assets\\standard assets\\utility\\forcedreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CrossPlatformInputInitialize.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno.DESKTOP-GV16N45.000\\Documents\\GitHub\\DiabloFInalFinal-DiabloDEF\\Assets\\Editor\\CrossPlatformInput\\CrossPlatformInputInitialize.cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\CrossPlatformInput\\CrossPlatformInputInitialize.cs",
+              "ToolTip": "C:\\Users\\Alumno.DESKTOP-GV16N45.000\\Documents\\GitHub\\DiabloFInalFinal-DiabloDEF\\Assets\\Editor\\CrossPlatformInput\\CrossPlatformInputInitialize.cs",
+              "RelativeToolTip": "Assets\\Editor\\CrossPlatformInput\\CrossPlatformInputInitialize.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAEwFwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:33:46.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimpleActivatorMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno.DESKTOP-GV16N45.000\\Documents\\GitHub\\DiabloFInalFinal-DiabloDEF\\Assets\\Standard Assets\\Utility\\SimpleActivatorMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Standard Assets\\Utility\\SimpleActivatorMenu.cs",
+              "ToolTip": "C:\\Users\\Alumno.DESKTOP-GV16N45.000\\Documents\\GitHub\\DiabloFInalFinal-DiabloDEF\\Assets\\Standard Assets\\Utility\\SimpleActivatorMenu.cs",
+              "RelativeToolTip": "Assets\\Standard Assets\\Utility\\SimpleActivatorMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:32:40.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ForcedReset.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno.DESKTOP-GV16N45.000\\Documents\\GitHub\\DiabloFInalFinal-DiabloDEF\\Assets\\Standard Assets\\Utility\\ForcedReset.cs",
+              "RelativeDocumentMoniker": "Assets\\Standard Assets\\Utility\\ForcedReset.cs",
+              "ToolTip": "C:\\Users\\Alumno.DESKTOP-GV16N45.000\\Documents\\GitHub\\DiabloFInalFinal-DiabloDEF\\Assets\\Standard Assets\\Utility\\ForcedReset.cs",
+              "RelativeToolTip": "Assets\\Standard Assets\\Utility\\ForcedReset.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:30:24.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FPSCounter.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno.DESKTOP-GV16N45.000\\Documents\\GitHub\\DiabloFInalFinal-DiabloDEF\\Assets\\Standard Assets\\Utility\\FPSCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Standard Assets\\Utility\\FPSCounter.cs",
+              "ToolTip": "C:\\Users\\Alumno.DESKTOP-GV16N45.000\\Documents\\GitHub\\DiabloFInalFinal-DiabloDEF\\Assets\\Standard Assets\\Utility\\FPSCounter.cs",
+              "RelativeToolTip": "Assets\\Standard Assets\\Utility\\FPSCounter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:28:01.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GallinaMovimiento.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno.DESKTOP-GV16N45.000\\Documents\\GitHub\\DiabloFInalFinal-DiabloDEF\\Assets\\Scripts\\GallinaMovimiento.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GallinaMovimiento.cs",
+              "ToolTip": "C:\\Users\\Alumno.DESKTOP-GV16N45.000\\Documents\\GitHub\\DiabloFInalFinal-DiabloDEF\\Assets\\Scripts\\GallinaMovimiento.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GallinaMovimiento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T09:53:45.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
