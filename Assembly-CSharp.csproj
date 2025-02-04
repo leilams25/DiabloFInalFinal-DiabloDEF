@@ -61,12 +61,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\GallinaMovimiento.cs" />
+    <Compile Include="Assets\Scripts\PlayerControlelr.cs" />
     <Compile Include="Assets\SciFi Warehouse Kit\Demo\Scripts\LightFlicker.cs" />
     <Compile Include="Assets\SciFi Warehouse Kit\Demo\Scripts\PlayerMovement.cs" />
+    <Compile Include="Assets\Scripts\CustomeActions.cs" />
     <Compile Include="Assets\SciFi Warehouse Kit\Demo\Scripts\PlayRandomSound.cs" />
-    <Compile Include="Assets\PlayerControlelr.cs" />
+    <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\SciFi Warehouse Kit\Demo\Scripts\MouseComponent.cs" />
-    <Compile Include="Assets\CustomeActions.cs" />
     <Compile Include="Assets\SciFi Warehouse Kit\Demo\Scripts\PushPhysics.cs" />
   </ItemGroup>
   <ItemGroup>
