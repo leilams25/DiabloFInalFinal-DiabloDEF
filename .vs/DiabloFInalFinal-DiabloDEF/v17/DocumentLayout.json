@@ -1,17 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Alumno.DESKTOP-GV16N45.000\\Documents\\GitHub\\DiabloFInalFinal-DiabloDEF\\",
+  "WorkspaceRootPath": "C:\\Users\\leila\\OneDrive\\Desktop\\DiabloFInalFinal-DiabloDEF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B7DC4F67-8054-C696-FB30-6C3196152EE5}|Assembly-CSharp.csproj|c:\\users\\alumno.desktop-gv16n45.000\\documents\\github\\diablofinalfinal-diablodef\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B7DC4F67-8054-C696-FB30-6C3196152EE5}|Assembly-CSharp.csproj|c:\\users\\leila\\onedrive\\desktop\\diablofinalfinal-diablodef\\assets\\scripts\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DC4F67-8054-C696-FB30-6C3196152EE5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DC4F67-8054-C696-FB30-6C3196152EE5}|Assembly-CSharp.csproj|C:\\Users\\leila\\OneDrive\\Desktop\\DiabloFInalFinal-DiabloDEF\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7DC4F67-8054-C696-FB30-6C3196152EE5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\alumno.desktop-gv16n45.000\\documents\\github\\diablofinalfinal-diablodef\\assets\\playercontrolelr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\playercontrolelr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alumno.DESKTOP-GV16N45.000\\Documents\\GitHub\\DiabloFInalFinal-DiabloDEF\\Assets\\PlayerControlelr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7DC4F67-8054-C696-FB30-6C3196152EE5}|Assembly-CSharp.csproj|c:\\users\\alumno.desktop-gv16n45.000\\documents\\github\\diablofinalfinal-diablodef\\assets\\scripts\\gallinamovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B7DC4F67-8054-C696-FB30-6C3196152EE5}|Assembly-CSharp.csproj|C:\\Users\\leila\\OneDrive\\Desktop\\DiabloFInalFinal-DiabloDEF\\assets\\scripts\\gallinamovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7DC4F67-8054-C696-FB30-6C3196152EE5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gallinamovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -27,28 +30,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\Alumno.DESKTOP-GV16N45.000\\Documents\\GitHub\\DiabloFInalFinal-DiabloDEF\\Assets\\Scripts\\Player.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
-              "ToolTip": "C:\\Users\\Alumno.DESKTOP-GV16N45.000\\Documents\\GitHub\\DiabloFInalFinal-DiabloDEF\\Assets\\Scripts\\Player.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAjAAAA",
+              "Title": "NPC.cs",
+              "DocumentMoniker": "C:\\Users\\leila\\OneDrive\\Desktop\\DiabloFInalFinal-DiabloDEF\\Assets\\Scripts\\NPC.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPC.cs",
+              "ToolTip": "C:\\Users\\leila\\OneDrive\\Desktop\\DiabloFInalFinal-DiabloDEF\\Assets\\Scripts\\NPC.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T11:33:19.471Z",
+              "WhenOpened": "2025-02-05T00:52:37.079Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GallinaMovimiento.cs",
-              "DocumentMoniker": "C:\\Users\\Alumno.DESKTOP-GV16N45.000\\Documents\\GitHub\\DiabloFInalFinal-DiabloDEF\\Assets\\Scripts\\GallinaMovimiento.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GallinaMovimiento.cs",
-              "ToolTip": "C:\\Users\\Alumno.DESKTOP-GV16N45.000\\Documents\\GitHub\\DiabloFInalFinal-DiabloDEF\\Assets\\Scripts\\GallinaMovimiento.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GallinaMovimiento.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Title": "PlayerControlelr.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno.DESKTOP-GV16N45.000\\Documents\\GitHub\\DiabloFInalFinal-DiabloDEF\\Assets\\PlayerControlelr.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Alumno.DESKTOP-GV16N45.000\\Documents\\GitHub\\DiabloFInalFinal-DiabloDEF\\Assets\\PlayerControlelr.cs",
+              "ToolTip": "C:\\Users\\Alumno.DESKTOP-GV16N45.000\\Documents\\GitHub\\DiabloFInalFinal-DiabloDEF\\Assets\\PlayerControlelr.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Alumno.DESKTOP-GV16N45.000\\Documents\\GitHub\\DiabloFInalFinal-DiabloDEF\\Assets\\PlayerControlelr.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T09:53:45.242Z",
+              "WhenOpened": "2025-02-03T19:59:11.024Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\leila\\OneDrive\\Desktop\\DiabloFInalFinal-DiabloDEF\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\leila\\OneDrive\\Desktop\\DiabloFInalFinal-DiabloDEF\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T11:33:19.471Z"
             },
             {
               "$type": "Bookmark",
@@ -56,16 +70,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PlayerControlelr.cs",
-              "DocumentMoniker": "C:\\Users\\Alumno.DESKTOP-GV16N45.000\\Documents\\GitHub\\DiabloFInalFinal-DiabloDEF\\Assets\\PlayerControlelr.cs",
-              "RelativeDocumentMoniker": "Assets\\PlayerControlelr.cs",
-              "ToolTip": "C:\\Users\\Alumno.DESKTOP-GV16N45.000\\Documents\\GitHub\\DiabloFInalFinal-DiabloDEF\\Assets\\PlayerControlelr.cs",
-              "RelativeToolTip": "Assets\\PlayerControlelr.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAYAAAA",
+              "DocumentIndex": 3,
+              "Title": "GallinaMovimiento.cs",
+              "DocumentMoniker": "C:\\Users\\leila\\OneDrive\\Desktop\\DiabloFInalFinal-DiabloDEF\\Assets\\Scripts\\GallinaMovimiento.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GallinaMovimiento.cs",
+              "ToolTip": "C:\\Users\\leila\\OneDrive\\Desktop\\DiabloFInalFinal-DiabloDEF\\Assets\\Scripts\\GallinaMovimiento.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GallinaMovimiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T19:59:11.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T09:53:45.242Z"
             }
           ]
         }
