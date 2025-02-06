@@ -53,6 +53,7 @@ public class Player : MonoBehaviour
 
             if( !agent.pathPending && agent.remainingDistance <= agent.stoppingDistance)
             {
+                SistemaDialogo.sistema.IniciarDialogo();
                 npc.Interactuar( this.transform);
                 ultimoClick = null;
             }
