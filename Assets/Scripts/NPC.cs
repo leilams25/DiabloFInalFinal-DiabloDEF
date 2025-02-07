@@ -8,7 +8,7 @@ using UnityEngine.Animations;
 public class NPC : MonoBehaviour
 {
     [SerializeField] private float duracionRotacion;
-    
+    [SerializeField] private DialogoSo miDialogo;
 
     internal void Interactuar(Transform interactuador)
     {
@@ -17,7 +17,7 @@ public class NPC : MonoBehaviour
     }
     private void IniciarInteraccion()
     {
-        SistemaDialogo.sistema.IniciarDialogo();
+        SistemaDialogo.sistema.IniciarDialogo(miDialogo);
     }
     // Start is called before the first frame update
     void Start()

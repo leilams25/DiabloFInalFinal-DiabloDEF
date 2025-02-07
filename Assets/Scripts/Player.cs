@@ -9,7 +9,8 @@ public class Player : MonoBehaviour
     private Transform ultimoClick;
     private Camera cam;
     private NavMeshAgent agent;
-  
+   
+
     void Start()
     {
         cam = Camera.main;
@@ -20,7 +21,12 @@ public class Player : MonoBehaviour
    
     void Update()
     {
-       Movimiento();
+        if (Time.timeScale == 1)
+        {
+            Movimiento();
+        }
+            
+       
         ComprobarInteraccion();
 
     }
@@ -53,7 +59,7 @@ public class Player : MonoBehaviour
 
             if( !agent.pathPending && agent.remainingDistance <= agent.stoppingDistance)
             {
-                SistemaDialogo.sistema.IniciarDialogo();
+                
                 npc.Interactuar( this.transform);
                 ultimoClick = null;
             }

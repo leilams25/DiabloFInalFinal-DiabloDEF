@@ -1,12 +1,24 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 
 public class SistemaDialogo : MonoBehaviour
 {
     public static SistemaDialogo sistema;
+    [SerializeField]  GameObject marcoDialogo; 
+    [SerializeField] private TMP_Text textoDialogo;
+   
+
+    private bool escribiendo;
+    private int indiceFraseActual = 0;
+
+
+
+    private DialogoSo dialogoActual;
     // Start is called before the first frame update
-    void Start()
+    void Awake()
     {
         if (sistema == null)
         {
@@ -18,15 +30,69 @@ public class SistemaDialogo : MonoBehaviour
         }
     }
 
-
-    public void IniciarDialogo()
+    public void IniciarDialogo(DialogoSo dialogo)
     {
+        
+        marcoDialogo.SetActive(true);
+        dialogoActual = dialogo;
+        StartCoroutine(EscribirFrase());
+    }
+
+    public  IEnumerator EscribirFrase()
+    {
+        escribiendo = true;
+        textoDialogo.text = string.Empty;
+
+        char[] fraseEnLetras = dialogoActual.frases[indiceFraseActual].ToCharArray();
+        foreach (char letra in fraseEnLetras)
+        {
+            textoDialogo.text += letra;
+            yield return new WaitForSecondsRealtime(dialogoActual.tiempoEntreLetras);
+
+        }
+        escribiendo = false; 
+    }
+    public void CompletarFrase()
+    {
+        textoDialogo.text = dialogoActual.frases[indiceFraseActual];
+        StopAllCoroutines();
+        escribiendo = false;
+    }
+
+    public void SiguienteFrase()
+    {
+        if (!escribiendo)
+        {
+            indiceFraseActual++;
+            if (indiceFraseActual < dialogoActual.frases.Length)
+            {
+                StartCoroutine(EscribirFrase());
+
+            }
+            else
+            {
+                FinalizarDialogo();
+            }
+        }
+        else
+        {
+            CompletarFrase();
+        }
+
 
 
     }
-    // Update is called once per frame
+    public void FinalizarDialogo()
+    {
+        marcoDialogo.SetActive(false);
+        indiceFraseActual = 0;
+        escribiendo = false;
+        dialogoActual = null;
+
+    }
+   
     void Update()
     {
-        
+
     }
 }
