@@ -68,6 +68,7 @@
     <Compile Include="Assets\Scripts\SistemaDialogo.cs" />
     <Compile Include="Assets\Scripts\DialogoSo.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
+    <Compile Include="Assets\Scripts\PlayerVisual.cs" />
     <Compile Include="Assets\SciFi Warehouse Kit\Demo\Scripts\MouseComponent.cs" />
     <Compile Include="Assets\CustomeActions.cs" />
     <Compile Include="Assets\SciFi Warehouse Kit\Demo\Scripts\PushPhysics.cs" />

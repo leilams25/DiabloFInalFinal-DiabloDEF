@@ -14,7 +14,10 @@ public class SistemaDialogo : MonoBehaviour
     private bool escribiendo;
     private int indiceFraseActual = 0;
 
+    void Update()
+    {
 
+    }
 
     private DialogoSo dialogoActual;
     // Start is called before the first frame update
@@ -32,7 +35,8 @@ public class SistemaDialogo : MonoBehaviour
 
     public void IniciarDialogo(DialogoSo dialogo)
     {
-        
+
+        Time.timeScale = 0;
         marcoDialogo.SetActive(true);
         dialogoActual = dialogo;
         StartCoroutine(EscribirFrase());
@@ -84,6 +88,8 @@ public class SistemaDialogo : MonoBehaviour
     }
     public void FinalizarDialogo()
     {
+
+        Time.timeScale = 1;
         marcoDialogo.SetActive(false);
         indiceFraseActual = 0;
         escribiendo = false;
@@ -91,8 +97,5 @@ public class SistemaDialogo : MonoBehaviour
 
     }
    
-    void Update()
-    {
-
-    }
+   
 }
