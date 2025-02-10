@@ -9,7 +9,8 @@ public class SistemaDialogo : MonoBehaviour
     public static SistemaDialogo sistema;
     [SerializeField]  GameObject marcoDialogo; 
     [SerializeField] private TMP_Text textoDialogo;
-   
+    [SerializeField] private Transform npcCamera;
+
 
     private bool escribiendo;
     private int indiceFraseActual = 0;
@@ -33,12 +34,15 @@ public class SistemaDialogo : MonoBehaviour
         }
     }
 
-    public void IniciarDialogo(DialogoSo dialogo)
+    public void IniciarDialogo(DialogoSo dialogo, Transform cameraPoint)
     {
 
         Time.timeScale = 0;
         marcoDialogo.SetActive(true);
         dialogoActual = dialogo;
+
+        npcCamera.SetPositionAndRotation(cameraPoint.position, cameraPoint.rotation);
+
         StartCoroutine(EscribirFrase());
     }
 
